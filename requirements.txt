@@ -8,3 +8,6 @@ autopep8
 pylint
 gdown
 ipykernel
+pandas
+matplotlib
+torchmetrics
